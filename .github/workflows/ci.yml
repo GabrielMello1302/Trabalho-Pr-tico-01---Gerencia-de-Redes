@@ -1,0 +1,35 @@
+name: CI Pipeline - Delivery App
+
+# Diz ao GitHub para rodar esse robô sempre que houver um "push" na branch main
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  testes:
+    name: Executar Testes Automatizados
+    runs-on: ubuntu-latest # O robô vai usar um Ubuntu zerado do próprio GitHub
+
+    # Como o seu projeto Node.js está dentro da pasta "app", avisamos o robô
+    defaults:
+      run:
+        working-directory: ./app 
+
+    steps:
+      # Passo 1: O robô baixa o seu código do GitHub para a máquina dele
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      # Passo 2: O robô instala o Node.js
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      # Passo 3: O robô instala as dependências (npm install)
+      - name: Instalar dependências
+        run: npm install
+
+      # Passo 4: O robô roda os testes que acabamos de fazer (npm test)
+      - name: Rodar Testes (Jest)
+        run: npm test
