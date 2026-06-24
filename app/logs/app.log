@@ -6354,3 +6354,1233 @@
 {"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:24.052Z"}
 {"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:24.552Z"}
 {"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:25.051Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:25.551Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:26.051Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:26.551Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:27.051Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:27.551Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:28.052Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:28.552Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:29.053Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:29.553Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:30.054Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:30.555Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:31.058Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:31.557Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:32.057Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:32.558Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:33.058Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:33.559Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:34.060Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:34.562Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:35.061Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:35.562Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:36.062Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:36.562Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:37.063Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:37.564Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:38.063Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:38.564Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:39.064Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:39.564Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:40.064Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:40.564Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:41.064Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:41.565Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:42.066Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:42.566Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:43.067Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:43.568Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:13:44.068Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:44.569Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:45.070Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:45.570Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:46.071Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:46.572Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:47.072Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:47.573Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:48.074Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:48.575Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:49.075Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:49.576Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:50.075Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:50.576Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:51.076Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:51.578Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:52.078Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:52.578Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:53.078Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:53.579Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:54.079Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:13:54.580Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:55.080Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:55.580Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:56.081Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:56.581Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:57.080Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:57.581Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:13:58.082Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:58.582Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:13:59.081Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:13:59.581Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:00.082Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:00.583Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:01.083Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:01.582Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:02.082Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:02.582Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:03.082Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:03.583Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:04.083Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:04.583Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:05.083Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:05.583Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:06.084Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:06.585Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:07.085Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:07.584Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:08.085Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:08.585Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:09.084Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:09.585Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:10.085Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:10.585Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:11.086Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:11.588Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:12.088Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:12.589Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:13.089Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:13.590Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:14.089Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:14.590Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:15.090Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:15.591Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:16.091Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:16.592Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:17.092Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:17.593Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:18.093Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:18.593Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:19.094Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:19.594Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:20.094Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:20.594Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:21.095Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:21.595Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:22.095Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:22.595Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:23.096Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:23.597Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:24.097Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:24.596Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:25.097Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:25.597Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:26.097Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:26.598Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:27.098Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:27.598Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:28.098Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:28.599Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:29.099Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:29.599Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:30.099Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:30.599Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:31.099Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:31.597Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:32.098Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:32.598Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:33.099Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:33.599Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:34.099Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:34.599Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:35.099Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:35.599Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:36.099Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:36.600Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:37.101Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:37.601Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:38.101Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:38.602Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:39.103Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:39.604Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:40.103Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:40.605Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:41.105Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:41.606Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:42.107Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:42.606Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:43.107Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:43.608Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:44.108Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:44.608Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:45.109Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:45.609Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:46.110Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:46.610Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:47.111Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:47.612Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:48.113Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:48.614Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:49.114Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:49.615Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:50.114Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:50.614Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:51.114Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:14:51.614Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:52.114Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:52.615Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:53.116Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:53.616Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:54.117Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:54.618Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:55.117Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:55.618Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:56.118Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:56.618Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:57.118Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:57.620Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:14:58.120Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:14:58.621Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:14:59.122Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:14:59.623Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:00.122Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:00.623Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:01.123Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:01.621Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:02.122Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:02.622Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:03.123Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:03.623Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:04.124Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:04.625Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:05.125Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:05.626Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:06.127Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:06.628Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:07.128Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:07.627Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:08.128Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:08.630Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:09.130Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:09.630Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:10.129Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:10.630Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:11.130Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:11.632Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:12.131Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:12.632Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:13.133Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:13.633Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:14.133Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:14.634Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:15.133Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:15.634Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:16.135Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:16.635Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:17.135Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:17.635Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:18.136Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:18.637Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:19.137Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:19.637Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:20.138Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:20.638Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:21.138Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:21.637Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:22.138Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:22.638Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:23.139Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:23.639Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:24.140Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:24.641Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:25.140Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:25.641Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:26.142Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:26.642Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:27.143Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:27.644Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:28.145Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:28.645Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:29.146Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:29.647Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:30.147Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:30.648Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:31.148Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:31.645Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:32.144Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:32.645Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:33.145Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:33.645Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:34.146Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:34.647Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:35.147Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:35.647Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:36.147Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:36.648Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:37.148Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:37.649Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:38.149Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:38.650Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:39.150Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:39.651Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:40.151Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:40.651Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:41.151Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:41.651Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:42.151Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:42.652Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:43.153Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:43.654Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:44.154Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:44.654Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:45.155Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:45.655Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:46.155Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:46.656Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:47.156Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:47.657Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:48.157Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:48.657Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:49.157Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:49.657Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:50.158Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:50.659Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:51.159Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:51.660Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:52.160Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:52.661Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:53.162Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:53.662Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:54.162Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:54.663Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:55.163Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:55.663Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:15:56.163Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:15:56.663Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:57.163Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:57.665Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:58.165Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:15:58.664Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:15:59.164Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:15:59.664Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:00.165Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:00.665Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:01.166Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:01.664Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:02.164Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:02.665Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:03.164Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:03.664Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:04.165Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:04.665Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:05.166Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:05.666Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:06.168Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:06.669Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:07.170Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:07.671Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:08.171Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:08.672Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:09.172Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:09.672Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:10.173Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:10.673Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:11.173Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:11.674Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:12.175Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:12.676Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:13.176Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:13.676Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:14.176Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:14.677Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:15.178Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:15.679Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:16.178Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:16.679Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:17.179Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:17.678Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:18.179Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:18.680Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:19.181Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:19.682Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:20.183Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:20.684Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:21.184Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:21.686Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:22.185Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:22.686Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:23.186Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:23.687Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:24.188Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:24.687Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:25.187Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:25.688Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:26.188Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:26.689Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:27.190Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:27.691Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:28.190Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:28.691Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:29.192Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:29.693Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:30.194Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:30.695Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:31.196Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:31.694Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:32.194Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:32.695Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:33.195Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:33.696Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:34.196Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:34.696Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:35.198Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:35.699Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:36.200Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:36.700Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:37.199Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:37.701Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:38.202Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:38.702Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:39.202Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:39.702Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:40.202Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:40.703Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:41.204Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:41.705Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:42.205Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:42.705Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:43.205Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:43.705Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:44.207Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:44.707Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:45.207Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:45.707Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:46.207Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:46.708Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:47.208Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:47.708Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:48.209Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:48.710Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:49.210Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:49.711Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:50.211Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:50.711Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:51.211Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:51.712Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:52.213Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:52.713Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:53.213Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:53.713Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:54.213Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:54.714Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:55.215Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:16:55.714Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:56.214Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:56.714Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:57.214Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:57.714Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:16:58.215Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:16:58.715Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:16:59.216Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:16:59.716Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:00.216Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:00.717Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:01.217Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:01.715Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:02.215Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:02.715Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:03.216Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:03.715Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:04.215Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:04.716Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:05.216Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:05.717Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:06.218Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:06.718Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:07.218Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:07.719Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:08.219Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:08.720Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:09.221Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:09.721Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:10.222Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:10.723Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:11.223Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:11.724Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:12.225Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:12.724Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:13.225Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:13.726Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:14.227Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:14.728Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:15.229Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:15.728Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:16.229Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:16.730Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:17.231Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:17.731Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:18.232Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:18.733Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:19.234Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:19.734Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:20.234Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:20.734Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:21.235Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:21.735Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:22.236Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:22.737Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:23.238Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:23.739Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:24.239Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:24.740Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:25.240Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:25.741Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:26.241Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:26.742Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:27.243Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:27.743Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:28.244Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:28.744Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:29.244Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:29.745Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:30.246Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:30.746Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:31.246Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:31.744Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:32.246Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:32.746Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:33.248Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:33.748Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:34.248Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:34.748Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:35.248Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:35.748Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:36.248Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:36.749Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:37.249Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:37.749Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:38.250Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:38.751Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:39.252Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:39.753Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:40.253Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:40.754Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:41.254Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:41.754Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:42.254Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:42.755Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:43.255Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:43.756Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:44.257Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:44.757Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:45.257Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:45.757Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:46.258Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:46.758Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:47.259Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:47.760Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:48.260Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:48.760Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:49.260Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:49.760Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:50.261Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:50.762Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:51.263Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:51.764Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:52.264Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:52.764Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:53.265Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:17:53.765Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:54.265Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:54.765Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:17:55.265Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:55.765Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:56.265Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:56.766Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:57.266Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:57.766Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:58.266Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:17:58.767Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:17:59.267Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:17:59.769Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:00.269Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:00.769Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:01.269Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:01.766Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:02.266Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:02.766Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:03.266Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:03.767Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:04.267Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:04.767Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:05.267Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:05.768Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:06.268Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:06.768Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:07.268Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:07.769Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:08.269Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:08.770Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:09.271Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:09.771Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:10.272Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:10.773Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:11.274Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:11.774Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:12.276Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:12.777Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:13.277Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:13.777Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:14.277Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:14.779Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:15.279Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:15.780Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:16.280Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:16.780Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:17.281Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:17.781Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:18.282Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:18.783Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:19.284Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:19.785Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:20.285Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:20.785Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:21.285Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:21.785Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:22.285Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:22.786Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:23.286Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:23.786Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:24.286Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:24.788Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:25.289Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:25.790Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:26.291Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:26.792Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:27.292Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:27.793Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:28.293Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:28.793Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:29.294Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:29.794Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:30.295Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:30.795Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:31.294Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:31.794Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:32.294Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:32.794Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:33.295Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:33.796Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:34.296Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:34.797Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:35.298Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:35.799Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:36.299Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:36.799Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:37.300Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:37.800Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:38.300Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:38.801Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:39.302Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:39.803Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:40.304Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:40.804Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:41.304Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:41.805Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:42.305Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:42.805Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:43.306Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:43.806Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:44.307Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:44.808Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:45.309Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:45.809Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:46.309Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:46.810Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:47.311Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:47.811Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:48.312Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:48.812Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:49.313Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:49.813Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:50.314Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:50.815Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:51.315Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:51.816Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:52.316Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:52.816Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:53.317Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:53.818Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:18:54.318Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:54.819Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:55.319Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:55.820Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:56.320Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:56.821Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:18:57.321Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:57.822Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:18:58.322Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:18:58.822Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:59.323Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:18:59.823Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:00.323Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:00.824Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:01.322Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:01.822Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:02.323Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:02.825Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:03.325Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:03.826Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:04.326Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:04.826Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:05.326Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:05.826Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:06.327Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:06.827Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:07.327Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:07.827Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:08.328Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:08.829Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:09.329Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:09.830Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:10.330Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:10.831Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:11.331Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:11.832Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:12.332Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:12.833Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:13.334Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:13.836Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:14.336Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:14.837Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:15.337Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:15.837Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:16.338Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:16.838Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:17.339Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:17.840Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:18.341Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:18.843Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:19.344Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:19.843Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:20.344Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:20.844Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:21.345Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:21.846Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:22.346Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:22.848Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:23.348Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:23.848Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:24.349Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:24.850Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:25.351Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:25.851Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:26.352Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:26.852Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:27.353Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:27.853Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:28.354Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:28.855Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:29.355Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:29.855Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:30.356Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:30.857Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:31.355Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:31.855Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:32.355Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:32.857Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:33.358Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:33.858Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:34.359Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:34.859Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:35.359Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:35.859Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:36.361Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:36.862Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:37.362Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:37.862Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:38.362Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:38.863Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:39.363Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:39.863Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:40.363Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:40.864Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:41.365Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:41.865Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:42.366Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:42.866Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:43.366Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:43.867Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:44.367Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:44.867Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:45.367Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:45.867Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:46.367Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:46.869Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:47.369Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:47.869Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:48.369Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:48.871Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:49.371Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:49.871Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:50.372Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:50.872Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:51.372Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:51.873Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:52.373Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:52.874Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:53.374Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:53.875Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:19:54.376Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:54.876Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:55.377Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:55.878Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:56.378Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:56.880Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:57.380Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:19:57.880Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:58.381Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:19:58.881Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:19:59.382Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:19:59.883Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:00.383Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:00.884Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:01.382Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:01.882Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:02.383Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:02.882Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:03.382Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:03.884Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:04.384Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:04.884Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:05.385Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:05.886Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:06.386Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:06.886Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:07.387Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:07.888Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:08.388Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:08.889Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:09.390Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:09.891Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:10.392Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:10.892Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:11.393Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:11.894Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:12.394Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:12.894Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:13.394Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:13.895Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:14.395Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:14.896Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:15.396Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:15.897Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:16.398Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:16.899Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:17.399Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:17.900Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:18.400Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:18.900Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:19.400Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:19.901Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:20.401Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:20.902Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:21.402Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:21.901Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:22.401Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:22.902Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:23.403Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:23.903Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:24.404Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:24.905Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:25.405Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:25.906Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:26.407Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:26.908Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:27.409Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:27.909Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:28.410Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:28.910Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:29.410Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:29.910Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:30.410Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:30.912Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:31.409Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:31.910Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:32.411Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:32.912Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:33.412Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:33.914Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:34.414Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:34.914Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:35.414Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:35.915Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:36.415Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:36.915Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:37.415Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:37.915Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:38.416Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:38.918Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:39.417Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:39.918Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:40.419Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:40.919Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:41.419Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:41.920Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:42.421Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:42.922Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:43.423Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:43.922Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:44.423Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:44.924Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:45.424Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:45.925Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:46.425Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:46.925Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:47.426Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:47.927Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:48.428Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:48.928Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:49.429Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:49.929Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:50.429Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:50.929Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:51.429Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:51.929Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:52.431Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:52.932Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:53.432Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:53.933Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:54.433Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:54.933Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:55.433Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:55.934Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:20:56.434Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:56.934Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:57.435Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:20:57.935Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:20:58.436Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:20:58.938Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:59.438Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:20:59.939Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:00.440Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:00.940Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:01.439Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:01.939Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:02.439Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:02.940Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:03.441Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:03.941Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:04.441Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:04.941Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:05.441Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:05.941Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:06.442Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:06.942Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:07.442Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:07.943Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:08.443Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:08.944Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:09.444Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:09.945Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:10.446Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:10.946Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:11.446Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:11.947Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:12.448Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:12.947Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:13.449Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:13.950Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:14.450Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:14.950Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:15.450Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:15.951Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:16.452Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:16.953Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:17.453Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:17.954Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:18.454Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:18.954Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:19.454Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:19.954Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:20.455Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:20.956Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:21.456Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:21.957Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:22.457Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:22.958Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:23.459Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:23.960Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:24.460Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:24.961Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:25.461Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:25.961Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:26.461Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:26.962Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:27.462Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:27.962Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:28.462Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:28.963Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:29.463Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:29.963Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:30.464Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:30.965Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:31.463Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:31.965Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:32.465Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:32.965Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:33.466Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:33.967Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:34.468Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:34.969Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:35.469Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:35.969Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:36.470Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:36.970Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:37.471Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:37.971Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:38.472Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:38.973Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:39.473Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:39.973Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:40.473Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:40.975Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:41.475Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:41.975Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:42.474Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:42.975Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:43.475Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:43.976Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:44.476Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:44.976Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:45.476Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:45.977Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:46.478Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:46.978Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:47.478Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:47.979Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:48.479Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:48.981Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:49.480Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:49.981Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:50.481Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:50.982Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:51.483Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:51.984Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:52.485Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:52.985Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:53.487Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:53.987Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:54.487Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:54.988Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:55.488Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:55.989Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:21:56.490Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:56.991Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:21:57.491Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:57.991Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:21:58.493Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:58.994Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:21:59.495Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:21:59.996Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:00.496Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:00.996Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:01.494Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:01.995Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:02.495Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:02.996Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:03.496Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:03.997Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:04.497Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:04.998Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:05.498Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:05.999Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:06.500Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:07.002Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:07.501Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:08.001Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:08.501Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:09.001Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:09.501Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:10.002Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:10.502Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:11.002Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:11.503Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:12.003Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:12.504Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:13.005Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:13.506Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:14.007Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:14.507Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:15.007Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:15.507Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:16.007Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:16.507Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:17.007Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:17.508Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:18.008Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:18.509Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:19.009Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:19.510Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:20.010Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:20.511Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:21.012Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:21.513Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:22.014Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:22.515Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:23.015Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:23.516Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:24.016Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:24.516Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:25.016Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:25.516Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:26.016Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:26.517Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:27.017Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:27.518Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:28.019Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:28.519Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:29.020Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:29.519Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:30.020Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:30.521Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:31.022Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:31.521Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:32.020Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:32.521Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:33.020Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:33.521Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:34.021Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:34.522Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:35.022Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:35.522Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:36.021Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:36.521Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:37.021Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:37.522Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:38.023Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:38.524Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:39.025Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:39.524Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:40.024Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:40.524Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:41.025Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:41.525Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:42.025Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:42.526Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:43.026Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:43.527Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:44.028Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:44.528Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:45.029Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:45.528Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:46.028Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:46.529Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:47.030Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:47.530Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:48.031Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:48.532Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:49.032Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:49.533Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:50.033Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:50.534Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:51.034Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:51.535Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:52.034Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:52.535Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:53.034Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:53.535Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:54.035Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:54.535Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:22:55.035Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:55.535Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:56.035Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:56.536Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:22:57.037Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:57.537Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:58.036Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:22:58.537Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:22:59.038Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:22:59.538Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:00.038Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:00.538Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:01.037Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:01.535Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:02.035Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:02.536Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:03.036Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:03.536Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:04.036Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:04.537Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:05.038Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:05.538Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:06.038Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:06.539Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:07.040Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:07.540Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:08.040Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:08.541Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:09.042Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:09.543Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:10.043Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:10.543Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:11.044Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:11.544Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:12.044Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:12.544Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:13.045Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:13.545Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:14.046Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:14.546Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:15.046Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:15.546Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:16.047Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:16.548Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:17.047Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:17.549Z"}
+{"level":"info","message":"\nServidor de Delivery rodando na porta 3000","timestamp":"2026-06-24T11:23:40.504Z"}
+{"level":"info","message":"Iniciando gerador de tráfego automático...\n","timestamp":"2026-06-24T11:23:40.506Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:41.012Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:41.507Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:42.007Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:42.508Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:43.009Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:43.509Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:44.009Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:44.509Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:45.010Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:45.510Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:46.011Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:46.512Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:47.011Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:47.513Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:48.013Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:48.513Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:49.014Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:49.514Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:50.013Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:50.515Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:51.014Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:51.516Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:52.015Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:52.516Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:53.015Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:23:53.517Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:54.017Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:54.517Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:55.017Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:55.519Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:56.019Z"}
+{"level":"info","message":"Status: Pedido entregue com sucesso!","timestamp":"2026-06-24T11:23:56.521Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:57.021Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:57.521Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:58.022Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:23:58.522Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:23:59.023Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:23:59.523Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:24:00.024Z"}
+{"level":"info","message":"Status: Motoboy a caminho.","timestamp":"2026-06-24T11:24:00.525Z"}
+{"level":"info","message":"Status: Pedido Novo recebido.","timestamp":"2026-06-24T11:24:01.030Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:24:01.524Z"}
+{"level":"info","message":"Status: ERRO - Pedido Cancelado.","timestamp":"2026-06-24T11:24:02.025Z"}
+{"level":"info","message":"Status: Restaurante preparando o pedido.","timestamp":"2026-06-24T11:24:02.526Z"}
