@@ -9,6 +9,7 @@ services:
 
     volumes:
       - ./app:/app
+      - ./app/logs:/var/log/app
 
     networks:
       - observabilidade

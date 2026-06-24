@@ -1,3 +1,5 @@
+const logger = require('./logger'); // Ajuste o caminho './logger' se estiver em outra pasta
+
 const express = require("express");
 const http = require("http"); // Importando o módulo nativo de requisições
 const app = express();
@@ -9,27 +11,27 @@ app.get("/health", (req, res) => {
 });
 
 app.post("/pedido/novo", (req, res) => {
-    console.log("Status: Pedido Novo recebido.");
+    logger.info("Status: Pedido Novo recebido.");
     res.status(201).send("Pedido criado");
 });
 
 app.put("/pedido/preparando", (req, res) => {
-    console.log("Status: Restaurante preparando o pedido.");
+    logger.info("Status: Restaurante preparando o pedido.");
     res.status(200).send("Em preparo");
 });
 
 app.put("/pedido/saiu-entrega", (req, res) => {
-    console.log("Status: Motoboy a caminho.");
+    logger.info("Status: Motoboy a caminho.");
     res.status(200).send("Saiu para entrega");
 });
 
 app.put("/pedido/entregue", (req, res) => {
-    console.log("Status: Pedido entregue com sucesso!");
+    logger.info("Status: Pedido entregue com sucesso!");
     res.status(200).send("Entregue");
 });
 
 app.post("/pedido/cancelado", (req, res) => {
-    console.log("Status: ERRO - Pedido Cancelado.");
+    logger.info("Status: ERRO - Pedido Cancelado.");
     res.status(400).send("Cancelado");
 });
 
@@ -39,8 +41,8 @@ const PORT = process.env.PORT || 3000;
 // O if verifica se o arquivo está sendo rodado diretamente (e não num teste automatizado)
 if (require.main === module) {
     app.listen(PORT, () => {
-        console.log(`\nServidor de Delivery rodando na porta ${PORT}`);
-        console.log("Iniciando gerador de tráfego automático...\n");
+        logger.info(`\nServidor de Delivery rodando na porta ${PORT}`);
+        logger.info("Iniciando gerador de tráfego automático...\n");
         
         // Inicia o gerador apenas DEPOIS que o servidor ligar
         setInterval(() => {
@@ -66,7 +68,7 @@ if (require.main === module) {
             });
 
             req.on('error', (erro) => {
-                console.log("Erro no gerador: ", erro.message);
+                logger.info("Erro no gerador: ", erro.message);
             });
 
             req.end(); // Dispara a requisição
